@@ -1789,6 +1789,8 @@
 	"power.origins-plus-plus.ryu/heavy_scales.name":"Heavy Scales",
 	"power.origins-plus-plus.ryu/lift_off.description":"You are able to launch yourself into the air.",
 	"power.origins-plus-plus.ryu/lift_off.name":"Lift Off",
+	"power.origins-plus-plus.ryu/mineral_diet.description":"Due to your strange nature, you can only consume amethyst and coal.",
+	"power.origins-plus-plus.ryu/mineral_diet.name":"Rare Food Source",
 	"power.origins-plus-plus.ryu/natural_protection.description":"Your scales provide natural protection, giving you additional health.",
 	"power.origins-plus-plus.ryu/natural_protection.name":"Natural Protection",
 	"power.origins-plus-plus.ryu/so_much_weight.description":"Because you are heavier, you take more fall damage.",
