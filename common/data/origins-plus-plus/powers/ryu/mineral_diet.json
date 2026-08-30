@@ -32,7 +32,7 @@
 					"equipment_slot":"mainhand",
 					"action":{
 						"type":"origins:consume",
-						"amount":1
+						"amount":8
 					}
 				},
 				"ticks":26
